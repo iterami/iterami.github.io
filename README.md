@@ -1,4 +1,4 @@
-iterami.github.io
------------------
+iterami.com
+-----------
 
-CC0 redirect from http://iterami.github.io to http://iterami.com.
+A partial backup of http://iterami.com and http://iterami.org.

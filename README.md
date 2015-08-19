@@ -1,4 +1,4 @@
 iterami.github.io
 -----------------
 
-A partial backup of http://iterami.com and http://iterami.org.
+The files that run http://iterami.com and http://iterami.org.

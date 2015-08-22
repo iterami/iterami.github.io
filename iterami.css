@@ -12,9 +12,8 @@ body{
     font-family: sans-serif;
 }
 table{
-    border-collapse: collapse;
     margin: auto;
 }
-tr{
+td{
     border-bottom: 1px solid #555;
 }

@@ -226,10 +226,13 @@
         <loc>http://iterami.com/TextInfo.htm/</loc>
     </url>
     <url>
-        <loc>http://iterami.com/Timer.htm/</loc>
+        <loc>http://iterami.com/Time.htm/</loc>
     </url>
     <url>
         <loc>http://iterami.com/TimeColors.htm/</loc>
+    </url>
+    <url>
+        <loc>http://iterami.com/Timer.htm/</loc>
     </url>
     <url>
         <loc>http://iterami.com/Trains-2D.htm/</loc>

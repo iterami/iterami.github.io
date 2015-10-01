@@ -10,9 +10,13 @@ body{
     background: #000;
     color: #aaa;
     font-family: sans-serif;
+    text-align: center;
 }
 table{
+    display: inline-block;
     margin: auto;
+    vertical-align: top;
+    text-align: left;
 }
 td{
     border-bottom: 1px solid #555;

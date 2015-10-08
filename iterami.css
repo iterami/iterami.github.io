@@ -12,9 +12,6 @@ body{
     font-family: sans-serif;
     text-align: center;
 }
-.external{
-    color: #f70;
-}
 table{
     display: inline-block;
     margin: auto;
@@ -23,6 +20,9 @@ table{
 }
 td{
     border-bottom: 1px solid #555;
+}
+td:nth-child(2) a{
+    color: #f70;
 }
 .zip{
     color: #19f;

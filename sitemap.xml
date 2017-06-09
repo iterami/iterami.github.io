@@ -13,9 +13,6 @@
         <loc>http://iterami.com/Aquarium-2D.htm/</loc>
     </url>
     <url>
-        <loc>http://iterami.com/ArtEditor.htm/</loc>
-    </url>
-    <url>
         <loc>http://iterami.com/Avoidance-2D.htm/</loc>
     </url>
     <url>
@@ -146,12 +143,6 @@
     </url>
     <url>
         <loc>http://iterami.com/Match.htm/</loc>
-    </url>
-    <url>
-        <loc>http://iterami.com/Music-Local.htm/</loc>
-    </url>
-    <url>
-        <loc>http://iterami.com/Music-Server.htm/</loc>
     </url>
     <url>
         <loc>http://iterami.com/Particleball-2D.htm/</loc>
@@ -308,9 +299,6 @@
     </url>
     <url>
         <loc>http://iterami.com/UnitConverter.htm/</loc>
-    </url>
-    <url>
-        <loc>http://iterami.com/UniverseConstructor.htm/</loc>
     </url>
     <url>
         <loc>http://iterami.com/Vidce.htm/</loc>

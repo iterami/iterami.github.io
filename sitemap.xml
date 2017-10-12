@@ -7,9 +7,6 @@
         <loc>http://iterami.com/Alarm.htm/</loc>
     </url>
     <url>
-        <loc>http://iterami.com/AoM-Guide.htm/</loc>
-    </url>
-    <url>
         <loc>http://iterami.com/Aquarium-2D.htm/</loc>
     </url>
     <url>
@@ -26,9 +23,6 @@
     </url>
     <url>
         <loc>http://iterami.com/Calculator.htm/</loc>
-    </url>
-    <url>
-        <loc>http://iterami.com/CH-Guide.htm/</loc>
     </url>
     <url>
         <loc>http://iterami.com/Click.htm/</loc>
@@ -64,9 +58,6 @@
         <loc>http://iterami.com/D2LoD-ArcaneSanctuary.htm/</loc>
     </url>
     <url>
-        <loc>http://iterami.com/D2LoD-Guide.htm/</loc>
-    </url>
-    <url>
         <loc>http://iterami.com/DesertStreetMarket.htm/</loc>
     </url>
     <url>
@@ -82,9 +73,6 @@
         <loc>http://iterami.com/Dropdown.htm/</loc>
     </url>
     <url>
-        <loc>http://iterami.com/DS-Guide.htm/</loc>
-    </url>
-    <url>
         <loc>http://iterami.com/Duel.htm/</loc>
     </url>
     <url>
@@ -92,9 +80,6 @@
     </url>
     <url>
         <loc>http://iterami.com/ESP-Test.htm/</loc>
-    </url>
-    <url>
-        <loc>http://iterami.com/EVE-Guide.htm/</loc>
     </url>
     <url>
         <loc>http://iterami.com/ExperienceCalculator.htm/</loc>
@@ -112,6 +97,9 @@
         <loc>http://iterami.com/Guess.htm/</loc>
     </url>
     <url>
+        <loc>http://iterami.com/Guides.htm/</loc>
+    </url>
+    <url>
         <loc>http://iterami.com/Hallway-2D3D.htm/</loc>
     </url>
     <url>
@@ -119,9 +107,6 @@
     </url>
     <url>
         <loc>http://iterami.com/Hrad.htm/</loc>
-    </url>
-    <url>
-        <loc>http://iterami.com/HS-Guide.htm/</loc>
     </url>
     <url>
         <loc>http://iterami.com/Index.htm/</loc>
@@ -172,9 +157,6 @@
         <loc>http://iterami.com/Poem.htm/</loc>
     </url>
     <url>
-        <loc>http://iterami.com/PT-Guide.htm/</loc>
-    </url>
-    <url>
         <loc>http://iterami.com/QjnyYap.htm/</loc>
     </url>
     <url>
@@ -208,19 +190,10 @@
         <loc>http://iterami.com/RPG-Side.htm/</loc>
     </url>
     <url>
-        <loc>http://iterami.com/RS-Guide.htm/</loc>
-    </url>
-    <url>
         <loc>http://iterami.com/RTS-2D.htm/</loc>
     </url>
     <url>
         <loc>http://iterami.com/RTS-Boxing.htm/</loc>
-    </url>
-    <url>
-        <loc>http://iterami.com/SC-Guide.htm/</loc>
-    </url>
-    <url>
-        <loc>http://iterami.com/SC-Maps.htm/</loc>
     </url>
     <url>
         <loc>http://iterami.com/Shooter-2D.htm/</loc>
@@ -271,9 +244,6 @@
         <loc>http://iterami.com/TextInfo.htm/</loc>
     </url>
     <url>
-        <loc>http://iterami.com/TF2-Guide.htm/</loc>
-    </url>
-    <url>
         <loc>http://iterami.com/ThemePark-3D.htm/</loc>
     </url>
     <url>
@@ -314,8 +284,5 @@
     </url>
     <url>
         <loc>http://iterami.com/WindowInfo.htm/</loc>
-    </url>
-    <url>
-        <loc>http://iterami.com/WoW-Guide.htm/</loc>
     </url>
 </urlset>

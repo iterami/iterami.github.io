@@ -52,9 +52,6 @@
         <loc>http://iterami.com/common/</loc>
     </url>
     <url>
-        <loc>http://iterami.com/ContactForm.htm/</loc>
-    </url>
-    <url>
         <loc>http://iterami.com/Countdown.htm/</loc>
     </url>
     <url>
@@ -233,9 +230,6 @@
     </url>
     <url>
         <loc>http://iterami.com/SurrealIntermission.htm/</loc>
-    </url>
-    <url>
-        <loc>http://iterami.com/Terminal.htm/</loc>
     </url>
     <url>
         <loc>http://iterami.com/TextEditor.htm/</loc>

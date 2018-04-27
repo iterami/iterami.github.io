@@ -1,9 +1,6 @@
 iterami/iterami.github.io
 -------------------------
 
-The files that run http://iterami.com.
-
----
-
-Requires:
-* [iterami/common](https://github.com/iterami/common)
+* Contributing: https://github.com/iterami/Documentation.htm/blob/gh-pages/CONTRIBUTING.md
+* Requires:
+  * [iterami/common](https://github.com/iterami/common)

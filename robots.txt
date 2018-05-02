@@ -1,4 +1,4 @@
-Sitemap: http://iterami.com/sitemap.xml
+Sitemap: https://iterami.com/sitemap.xml
 
 User-agent: *
 Disallow:

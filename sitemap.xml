@@ -31,9 +31,6 @@
         <loc>https://iterami.com/Calculator.htm/</loc>
     </url>
     <url>
-        <loc>https://iterami.com/CityMaze.htm/</loc>
-    </url>
-    <url>
         <loc>https://iterami.com/Click.htm/</loc>
     </url>
     <url>
@@ -62,9 +59,6 @@
     </url>
     <url>
         <loc>https://iterami.com/D2LoD-ArcaneSanctuary.htm/</loc>
-    </url>
-    <url>
-        <loc>https://iterami.com/DesertStreetMarket.htm/</loc>
     </url>
     <url>
         <loc>https://iterami.com/Documentation.htm/</loc>
@@ -133,6 +127,9 @@
         <loc>https://iterami.com/Match.htm/</loc>
     </url>
     <url>
+        <loc>https://iterami.com/MultiverseEditor.htm/</loc>
+    </url>
+    <url>
         <loc>https://iterami.com/Particleball-2D.htm/</loc>
     </url>
     <url>
@@ -151,9 +148,6 @@
         <loc>https://iterami.com/Platform-2D.htm/</loc>
     </url>
     <url>
-        <loc>https://iterami.com/Platform-3D.htm/</loc>
-    </url>
-    <url>
         <loc>https://iterami.com/PlusPlus.htm/</loc>
     </url>
     <url>
@@ -166,13 +160,7 @@
         <loc>https://iterami.com/Race-2D.htm/</loc>
     </url>
     <url>
-        <loc>https://iterami.com/Race-3D.htm/</loc>
-    </url>
-    <url>
         <loc>https://iterami.com/Rain-2D.htm/</loc>
-    </url>
-    <url>
-        <loc>https://iterami.com/Rain-3D.htm/</loc>
     </url>
     <url>
         <loc>https://iterami.com/RandomRepository.htm/</loc>
@@ -235,19 +223,10 @@
         <loc>https://iterami.com/Starfield-2D3D.htm/</loc>
     </url>
     <url>
-        <loc>https://iterami.com/Starfield-3D.htm/</loc>
-    </url>
-    <url>
         <loc>https://iterami.com/Sudoku.htm/</loc>
     </url>
     <url>
-        <loc>https://iterami.com/SurrealIntermission.htm/</loc>
-    </url>
-    <url>
         <loc>https://iterami.com/TextInfo.htm/</loc>
-    </url>
-    <url>
-        <loc>https://iterami.com/ThemePark-3D.htm/</loc>
     </url>
     <url>
         <loc>https://iterami.com/Time.htm/</loc>
@@ -263,9 +242,6 @@
     </url>
     <url>
         <loc>https://iterami.com/Trains-2D.htm/</loc>
-    </url>
-    <url>
-        <loc>https://iterami.com/Trains-3D.htm/</loc>
     </url>
     <url>
         <loc>https://iterami.com/Trigonometry.htm/</loc>
@@ -290,9 +266,6 @@
     </url>
     <url>
         <loc>https://iterami.com/WASD-2D.htm/</loc>
-    </url>
-    <url>
-        <loc>https://iterami.com/WASD-3D.htm/</loc>
     </url>
     <url>
         <loc>https://iterami.com/WindowInfo.htm/</loc>

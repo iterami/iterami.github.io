@@ -5,6 +5,7 @@ body{
     background: #000;
     color: #aaa;
     font: bold 14px monospace;
+    white-space: nowrap;
 }
 .external{
     color: #f70;

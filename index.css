@@ -16,6 +16,9 @@ body{
 table{
     margin: auto;
 }
+td{
+    vertical-align: top;
+}
 
 a:hover{
     color: #777;

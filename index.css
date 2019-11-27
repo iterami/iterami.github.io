@@ -6,7 +6,7 @@ a{
 }
 body{
     background: #000;
-    color: #aaa;
+    color: #ccc;
     font: bold 14px monospace;
 }
 .external{
@@ -23,5 +23,5 @@ a:focus{
     outline: thin solid #4c4;
 }
 a:hover{
-    color: #777;
+    color: #888;
 }

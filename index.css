@@ -5,15 +5,15 @@ body{
     background: #000;
     color: #ccc;
     font: 700 14px monospace;
+    text-align: center;
+}
+div{
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
 }
 .external{
     color: #f99;
-}
-table{
-    margin: auto;
-}
-td{
-    vertical-align: top;
 }
 ul{
     margin-top: 0;

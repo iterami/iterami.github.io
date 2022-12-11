@@ -5,7 +5,6 @@ body{
     background: #000;
     color: #ccc;
     font: 700 14px monospace;
-    text-align: center;
 }
 div{
     display: inline-block;

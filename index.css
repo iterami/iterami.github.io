@@ -8,7 +8,6 @@ body{
 }
 div{
     display: inline-block;
-    text-align: left;
     vertical-align: top;
 }
 .external{

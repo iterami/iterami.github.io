@@ -6,11 +6,9 @@ body{
     color: #ccc;
     font: 700 14px monospace;
     margin: 8px;
-    text-align: center;
 }
 div{
     display: inline-block;
-    text-align: left;
     vertical-align: top;
 }
 .external{

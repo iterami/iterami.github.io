@@ -14,7 +14,7 @@ div{
 .external{
     color: #f99;
 }
-.external:after{
+.external::after{
     content: "↗";
 }
 ul{

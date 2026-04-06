@@ -16,6 +16,7 @@ div{
 }
 .external::after{
     content: "↗";
+    line-height: 1;
 }
 ul{
     margin: 0;

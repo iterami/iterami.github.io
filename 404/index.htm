@@ -9,7 +9,7 @@
 <div id=repo></div>
 
 <script>
-globalThis.onload = function(){
+globalThis.addEventListener('load', function(){
     const repo = globalThis.location.search.substring(1);
     const repos = [
       '9YG0E6r.htm',
@@ -95,5 +95,5 @@ globalThis.onload = function(){
     if(repos.includes(repo)){
         document.getElementById('repo').innerHTML = 'Did you mean <a href=../../' + repo + '/index.htm>' + repo + '/index.htm</a>?';
     }
-};
+}, {'once': true});
 </script>
